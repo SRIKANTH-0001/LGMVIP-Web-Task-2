@@ -1,13 +1,19 @@
+NAME:SRIKANTH K
+COMPANY:LetsGrowMore
+DOMAIN:Web development
+DURATION🕓:4 Weeks
+
 Calculator Project Overview
 
 Project Description:
 
 A web-based calculator application developed using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+
+
 Features:
 
-1.User-Friendly Interface:
-Simple and intuitive design.
+1.User-Friendly Interface:Simple and intuitive design.
 
 2.Basic Operations: Supports addition, subtraction, multiplication, and division.
 
@@ -17,17 +23,24 @@ Simple and intuitive design.
 
 5.Clear and Delete Functions: Easily correct mistakes.
 
+
+
 Technical Details:
 
 1.HTML: Structures the calculator interface.
+
 2.CSS: Styles the calculator for visual appeal.
+
 3.JavaScript: Handles the logic and user interactions.
+
 
 
 Project Files:
 
 1.index.html: Calculator structure.
+
 2.style.css: Calculator styles.
+
 3.script.js: Calculator functionality.
 
 Sample Pic of the Outcome:
