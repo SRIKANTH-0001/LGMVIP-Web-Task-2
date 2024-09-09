@@ -1,0 +1,89 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(baci.jpg);
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-size: cover;
+    
+}
+
+.calculator {
+    background: #36dddd;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 20px 50px rgba(253, 255, 255, 0.995);
+    text-align: center;
+    width: 300px;
+}
+
+.calculation {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #333;
+    min-height: 50px;
+    border-bottom: 2px solid #ddd;
+    padding: 10px;
+}
+
+button {
+    border: none;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2em;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 7px;
+    transition: background 0.7s ease, transform 0.3s ease;
+    width: 60px;
+    height: 60px;
+}
+
+button.number {
+    background: #4CAF50;
+}
+
+button.number:hover {
+    background: #45a049;
+    transform: scale(1.1);
+}
+
+button.number:active {
+    background: #3e8e41;
+}
+
+button.operator {
+    background: #ff7043;
+}
+
+button.operator:hover {
+    background: #ff5722;
+    transform: scale(1.1);
+}
+
+button.operator:active {
+    background: #e64a19;
+}
+
+button.clear {
+    background: #f44336;
+    width: 140px;
+}
+
+button.clear:hover {
+    background: #e53935;
+    transform: scale(1.1);
+}
+
+button.clear:active {
+    background: #a34343;
+}
+
+p {
+    margin: 0;
+}
