@@ -1,7 +1,7 @@
-NAME:SRIKANTH K
-COMPANY:LetsGrowMore
-DOMAIN:Web development
-DURATION🕓:4 Weeks
+NAME:SRIKANTH K               
+COMPANY:LetsGrowMore            
+DOMAIN:Web development             
+DURATION🕓:4 Weeks               
 
 Calculator Project Overview
 
